@@ -1,3 +1,4 @@
-/JavaStudy/bin/
+*/bin/
+*/.settings/
 .classpath
 .project
